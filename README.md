@@ -1,7 +1,7 @@
 # Sacola API
 
 ## 🛍 Sobre o projeto
-Projeto Sacola API desenvolvida no iFood Dev Week da [Digital Innovation One](https://www.dio.me/).
+Projeto Sacola API desenvolvida no iFood Dev Week na [Digital Innovation One](https://www.dio.me/).
 
 ## 💻 Tecnologias
 <table>
