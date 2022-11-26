@@ -4,6 +4,11 @@
 Projeto Sacola API desenvolvida no iFood Dev Week na [Digital Innovation One](https://www.dio.me/).
 
 ## 💻 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=7520FF)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=7520FF)
+![Gradle](https://img.shields.io/badge/Gradle-000?style=for-the-badge&logo=grade&logoColor=7520FF)
+
 <table>
     <tr>
         <th>Dependência</th>
@@ -35,6 +40,10 @@ Projeto Sacola API desenvolvida no iFood Dev Week na [Digital Innovation One](ht
     </tr>
 </table>
 
+## ⚙ Features
+- [x] Incluir itens na sacola
+- [x] Visualizar sacola;
+- [x] Fechar sacola.
 
 ## 🔍 Referências
 
